@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Javascript ASP.Net Core
 - 📫 How to reach me: baselaskar91@gmail.com
 - ⚡ Fun fact: Writing alot of codes learns more than courses
+- 😄 Pronouns: He/His
 - 👌 Defintly I like and opened to hear more ideas
