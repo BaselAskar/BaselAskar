@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React,Spring and ASP.NET Core
 - 🌱 I’m currently learning React native
-- 👯 I’m looking to collaborate on Java and C#
+- 👯 I’m looking to collaborate on Java , C# and javascript
 - 🤔 I’m looking for help with Docker Sql
 - 💬 Ask me about Javascript ASP.Net Core
 - 📧 My Email : baselaskar91@gmail.com
