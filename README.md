@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Basel! 🙂
 
-<!--
-**BaselAskar/BaselAskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on React,Spring and ASP.NET Core
+- 🌱 I’m currently learning React native
+- 👯 I’m looking to collaborate on Java and C#
+- 🤔 I’m looking for help with Docker Sql
+- 💬 Ask me about Javascript ASP.Net Core
+- 📫 How to reach me: baselaskar91@gmail.com
+- ⚡ Fun fact: Writing alot of codes learns more than courses
+- 👌 Defintly I like and opened to hear more ideas
