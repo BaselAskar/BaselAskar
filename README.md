@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Writing alot of codes learns more than courses
 - 😄 Pronouns: He/His
 - 👌 Defintly I like and opened to hear more ideas
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
